@@ -1,0 +1,43 @@
+.body_background 
+{
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Favengers-phone&psig=AOvVaw37viSsXNbfSyzfnm-eYgxM&ust=1619191044157000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCK6tiTkvACFQAAAAAdAAAAABAD");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+	background-color: aquamarine;
+	color: crimson;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: white;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
